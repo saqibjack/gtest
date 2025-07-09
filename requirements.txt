@@ -1,0 +1,6 @@
+selenium
+DrissionPage
+pydub
+SpeechRecognition
+webdriver-manager
+aiohttp
